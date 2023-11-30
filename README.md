@@ -2,4 +2,4 @@
 
 ![](./image.svg)
 
-![](./html.html)
+![](./example.html)
