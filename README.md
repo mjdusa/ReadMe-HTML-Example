@@ -11,9 +11,11 @@ before example.svg
 after example.svg
 
 ## Reports
+![Reports](https://mjdusa.github.io/ReadMe-HTML-Example/reports/)
 
 ### Coverage
+![Coverage](https://mjdusa.github.io/ReadMe-HTML-Example/reports/coverage/)
 
 ### Load Testing
 ![Load Testing](https://mjdusa.github.io/ReadMe-HTML-Example/reports/load-testing/)
-![Load Testing - example](https://mjdusa.github.io/ReadMe-HTML-Example/reports/load-testing/exampl.html)
+![Load Testing - example](https://mjdusa.github.io/ReadMe-HTML-Example/reports/load-testing/example.html)
