@@ -2,15 +2,11 @@
 <svg fill="none" viewBox="0 0 1200 1200" width="1200" height="1200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <meta charset="UTF-8" />
       <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" crossorigin="anonymous">
 
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" crossorigin="anonymous">
 
-      <link rel="shortcut icon" href="https://raw.githubusercontent.com/benc-uk/k6-reporter/main/assets/icon.png" type="image/png">
-
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>K6 Load Test: Domain Forwarding</title>
+      <div>K6 Load Test: Domain Forwarding</div>
       <style>
         body {
           margin: 1rem;
